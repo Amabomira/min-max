@@ -1,0 +1,7 @@
+Exercise2
+
+# get personal details 
+
+Fullname = input ("Enter Full name")
+
+
